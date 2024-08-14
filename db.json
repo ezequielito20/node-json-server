@@ -1,0 +1,51 @@
+{
+  "profesores": [
+    {
+      "id": "559a",
+      "nombre": "Alfredo",
+      "apellido": "Romero",
+      "materias": [
+        {
+          "nombre": "Python desde cero"
+        },
+        {
+          "nombre": "PowerBI desde cero"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "promedio": 9.3,
+      "id": "8d49"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "Garcia",
+      "promedio": 8.5,
+      "id": "7ea0"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "7a35"
+    },
+    {
+      "nombre": "Laravel desde cero",
+      "duracion": 8,
+      "dificultad": "intermedia",
+      "id": "97aa"
+    },
+    {
+      "nombre": "Javascript desde cero",
+      "duracion": 6,
+      "dificultad": "baja",
+      "id": "1459"
+    }
+  ]
+}
